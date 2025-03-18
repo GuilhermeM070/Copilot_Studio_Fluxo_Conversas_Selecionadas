@@ -64,7 +64,7 @@ Este repositório contém um resumo sobre o aprendizado no **Microsoft Copilot S
 
 1️⃣ Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/copilot-com-fluxo-conversa.git
+   git clone https://github.com/GuilhermeM070/Copilot_Studio_Fluxo_Conversas_Selecionadas.git
 2️⃣ Acesse a pasta do projeto:
 
 bash
